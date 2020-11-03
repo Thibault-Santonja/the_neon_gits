@@ -78,21 +78,35 @@ An IC06 project developed with Unreal Engine 4
 - [Lain](https://fr.wikipedia.org/wiki/Serial_Experiments_Lain) notion de réalité, rapport à soi, de conscience
 
 
+### Inspiration musicale
+- dark synthwave, retro electro, cyber electro
+    - {%youtube _4SXjfVeGEQ %}
+    - {%youtube m9H4kmrrDa0 %}
+    - {%youtube eEteJhp-Ezs %}
+    - {%youtube xB6zgo_dT9c %}
+    - {%youtube ph_IhNseCBc %}
 
+
+---
 ## TECHNIQUE : Programmation, Description du code...
 [Plugins UE4](https://www.pixstacks.com/best-free-unreal-engine-plugins)
 
 ### Bon tutos en vrac
+- [Level design Pause Process](https://www.youtube.com/watch?v=SjRo6k2XvCo){%youtube SjRo6k2XvCo %}
 - [Get Started with UE4](https://docs.unrealengine.com/en-US/GettingStarted/index.html?utm_source=launcher&utm_medium=ue&utm_campaign=uelearn) Doc de Unreal Engine
 - [Introduction to Blueprints](https://docs.unrealengine.com/en-US/Engine/Blueprints/GettingStarted/index.html) Doc de Unreal Engine 
 - [Blender, bases à un peu avancé, faire un MacBook en 4 vidéos](https://www.youtube.com/watch?v=d93bu-2rnOE) très très bon tuto bien complet et expliqué et relativement court ! Première vidéos : {%youtube d93bu-2rnOE %}
 - [Modeling a character BaseMesh in Blender (Tutorial)](https://www.youtube.com/watch?v=WlaMfIgS2ns) {%youtube WlaMfIgS2ns %}
-- 
+- [Playliste pour la minimap (ici la vidéo 5, celles a retenir sont notamment la une à trois)](https://www.youtube.com/watch?v=VQxp5fh3AWs) {%youtube VQxp5fh3AWs %}
+- [Procedural building](https://www.youtube.com/watch?v=_qVXrVV-ipc ) mais je ne l'ai pas utilisée
+- [Blender Building Shop](https://www.youtube.com/watch?v=qv714UBCVg4) {%youtube qv714UBCVg4 %}
+- [Bon tuto complet pour les particules](https://www.youtube.com/watch?v=Y4ZEka9j4CA) {%youtube Y4ZEka9j4CA %}
+- [animation dans les widget](https://www.youtube.com/watch?v=iMt3oVzYwyA) {%youtube iMt3oVzYwyA %}
 
 
-
-### Explication code
 ---
+### Explication code
+
 **Bonus**
 Dans le viewport : 
 - **LOCKBOX**: Collision sphere ne doit pas détecter la lock box (sinon le joueur va prendre le bonus "en le regardant") -> dans collision: Collision preset sur custom, tout mettre en Overlap sauf la case Lock_Box
@@ -197,3 +211,5 @@ liste des variables stockés au 31/10/2020 : ![](https://i.imgur.com/qaNPGCM.png
     - **minimap_render** set par la camera zenitale sur le character, récupère l'image vue par la camera à chaque instant, on peut dire que c'est l'écran de la camera
     - **minimap_material** globalement, on set la texture minimap_render, on crop le contour pour faire un rond et on ajoute une légère bordure pour qu'elle soit mieux visible (encore une fois, full math): ![](https://i.imgur.com/dkTLTBj.png)
     - **POI_component** (situé à la racine du projet... pas la meilleure des idées...) possède une variable pour set l'icon qui sera retransmis au widget de la minimap : ![](https://i.imgur.com/PXT0YVE.png)
+
+
