@@ -12,7 +12,7 @@ An IC06 project developed with Unreal Engine 4
 ---
 # Notes projet
 
-## 1. Ressources générales
+## 1. Ressources et présentation du projet
 [lien git projet](https://gitlab.utc.fr/tsantonj/the_neon_gits)
 
 [alpha v0.2.62](https://drive.google.com/file/d/1k06yKDm4gRK0KNqYx69nvKnkiBf9G93u/view?usp=sharing
@@ -22,15 +22,27 @@ An IC06 project developed with Unreal Engine 4
 
 [prèsentation vidéo contenu alpha v0.2.5](https://drive.google.com/file/d/1lI6rOlypVaHmL1ioif5b4uoKDrsdqKoh/view?usp=sharing)
 
+### 1.1. Présentation générale
+**Intro**: Shooter / Die&Retry dans un univers Cyberpunk avec des salles à "nettoyer" et différentes zones composées de plusieurs salles et se finissant par un boss.
+**Références**: Zone of the enders 2 (grosses vagues d'ennemies (des centaines)), Binding of Isaac (scénario simple, zones à nettoyer, Die&Retry)
+**Contexte**: environnement Retro futuriste / cyberpunk avec des néons, une prédominence de couleurs cyan / magenta
+**Éléments Principaux**: Vaisseau du joueur, ennemis sous forme de horde
+**Mode de jeu**: un joueur (coop ?)
+**Interface**: 3D, clavier sourie + portabilité console ?
+**Maquette Graphique**: Map simple, plate, avec décors (buildings...). Ambiance de nuit avec des néonspour l'éclairage (référence à l'imaginaire cyberpunk, exemple avec le jeu Cyberpunk 2077: https://cdn.cdkeys.com/700x700/media/catalog/product/c/y/cyberpunk.jpg, ou avec Ghost in the Shell (artwork de Alex Feliksovich) : https://www.artstation.com/artwork/nqrYo)
+
+**Étude de l'existant** : [![](https://i.imgur.com/z2nVCuR.png)](https://i.imgur.com/z2nVCuR.png)
+**Étude technique** : [![](https://i.imgur.com/V0XAasP.png)](https://i.imgur.com/V0XAasP.png)
+
 ### 1.2. Inspiration graphiques
-**Artstation Ghost in the Shell**
+#### 1.2.1. **Artstation Ghost in the Shell**
 [Artstation Ghost in the Shell](https://www.artstation.com/search?q=ghost%20in%20the%20shell&sort_by=relevance)
 
 - David Bocquillon Carrasco (Concept Artist)
 [![](https://cdnb.artstation.com/p/assets/images/images/012/253/253/large/david-bocquillon-carrasco-ghost-in-the-shell.jpg?1533830732)](https://www.artstation.com/artwork/4ARqk)
 
 
-**Artstation Hong Kong**
+#### 1.2.2. **Artstation Hong Kong**
 [Artstation Hong Kong](https://www.artstation.com/search?q=Hong%20kong&sort_by=relevance)
 
 - Sergey Zabelin (Concept Artist)
@@ -41,7 +53,7 @@ An IC06 project developed with Unreal Engine 4
 ![](https://cdnb.artstation.com/p/assets/images/images/009/559/171/large/dofresh-100-bridge-light-on.jpg?1519669897)](https://www.artstation.com/artwork/O6qlJ)
 
 
-**ArtStation Cyberpunk**
+#### 1.2.3. **ArtStation Cyberpunk**
 [](https://www.artstation.com/search?q=cyberpunk&sort_by=relevance)
 
 - Alexander Dudar (Concept Artist chez CD Projekt)
@@ -105,6 +117,7 @@ An IC06 project developed with Unreal Engine 4
 - [Blender Building Shop](https://www.youtube.com/watch?v=qv714UBCVg4) {%youtube qv714UBCVg4 %}
 - [Bon tuto complet pour les particules](https://www.youtube.com/watch?v=Y4ZEka9j4CA) {%youtube Y4ZEka9j4CA %}
 - [animation dans les widget](https://www.youtube.com/watch?v=iMt3oVzYwyA) {%youtube iMt3oVzYwyA %}
+- [Bon tuto matériaux](https://www.youtube.com/watch?v=lngF4VVNER4&list=PLZlv_N0_O1gbQjgY0nDwZNYe_N8IcYWS-) : {%youtube lngF4VVNER4 %}
 
 
 ---
@@ -204,6 +217,52 @@ c'est une tourrelle basique cherchant à tirer sur le joueur (fixe), j'ai tenté
 #### 4.6.6. Generator
 ![](https://i.imgur.com/TZijgWW.png)  
 fait pop des Basic (fixe)
+
+### 4.6.7. Boss
+Deux boss ont pour le moment été créés pour les deux premiers niveaux. Leurs apparences sont pour le moment les mêmes mais leurs attaques différentes:
+[![](https://i.imgur.com/FunXetX.png)](https://i.imgur.com/FunXetX.png)
+
+Mouvements aléatoires:
+[![](https://i.imgur.com/42e9L0y.png)](https://i.imgur.com/42e9L0y.png)
+
+Health bar des boss:
+On ajoute le widget correspondant à la health bar au viewport du boss, puis, sachant que la health bar n'a pas de Character spécifié, on set le character sur lequel est attaché la health bar avec "self" (donc avec le boss). Ca permet de réutiliser la même health bar pour chaque boss (ou même d'autres characters si besoin).
+[![](https://i.imgur.com/ZOmMCp5.png)](https://i.imgur.com/ZOmMCp5.png)
+
+Le widget en lui même est très basique, c'est une progress bar de 100 x 10 px, avec un background semi transparent et une couleur de remplissage bien voyante.
+[![](https://i.imgur.com/VJEigL4.png)](https://i.imgur.com/VJEigL4.png)
+
+Le taux de remplissage est ensuite saisi dans un bind / Blueprint:
+[![](https://i.imgur.com/gMcEKmH.png)](https://i.imgur.com/gMcEKmH.png)
+Il est intéressant de noter ici le cast pour adapter la barre au boss 1 et 2 ici.
+
+#### 4.6.7.1. Spécificités boss zone 1
+Ses attaques:
+- Attaque de base qui tire des lasers tout autour de lui (changement de couleurs quelques secondes avant de tirer)
+- Spawn d'ennemis basiques (pour détourner l'attention du joueur)
+
+#### 4.6.7.2. Spécificités boss zone 2
+Ses attaques:
+- Attaque de base qui tire des lasers toutes les secondesen direction du joueur
+- Spawn d'ennemis basiques (pour détourner l'attention du joueur)
+- 3 colonne de feu venant du ciel aléatoirement autour du joueur
+- 1 colonne de feu venant du ciel à l'endroit du joueur apparaissant toutes les 0.5secondes pendant 5 secondes (donc 10 sky fire au total)
+
+Le "Sky fire" est un acteur composé des particules associés: 
+[![](https://i.imgur.com/fMrd3Ha.png)](https://i.imgur.com/fMrd3Ha.png)
+pendant 1.5 secondes, une simple trace sera au sol avec seulement quelques particules puis l'animation se jouera à fond. Pendant ce laps de temps le joueur pourra fuir la zone, ensuite il prendra des dégats (la trigger box sera activée (=is_damaging))
+[![](https://i.imgur.com/mr36hEZ.png)](https://i.imgur.com/mr36hEZ.png)
+
+Pour les particules, 500 particules sont émises de base par seconde, mais j'ai appliqué un rate dessus, ainsi de 0 à 1.35 secondes, on a une courbe linéaire allant de 10% à 20% de 500particules/s, puis entre 1.35 et 1.5, on fait un rapide drop à 0 avant de produire rapidement 100% des particules jusqu'à la fin de l'animation (5secondes (dans Required > Duration > Emitter Duration)):
+[![](https://i.imgur.com/ItK07kW.png)](https://i.imgur.com/ItK07kW.png)
+
+
+#### 4.6.7.3. Spécificités boss zone 3
+**TODO** Boss final ?
+
+#### 4.6.7.4. Spécificités boss zone 4
+**TODO** Boss final ?
+
 
 
 ### 4.7. Game Mode
