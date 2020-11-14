@@ -288,6 +288,7 @@ liste des variables stockés au 31/10/2020 :
         - **SkyLight** couplé au SkySphere, permet de mettre de la luminosité sur le level
         - **LightMassImportanceVolume** Zone où la lumière sera calculée
         - **Basic Portail** Seul élément fixe de la map en 0 0 0
+- **Home_map** map où l'on aura accès à tout le lore, les possibles upgrades / récompenses, l'entrainement et cetera. C'est la carte principale où l'on pourra ensuite lancer une run
 
 
 ### 4.10. Matériaux
