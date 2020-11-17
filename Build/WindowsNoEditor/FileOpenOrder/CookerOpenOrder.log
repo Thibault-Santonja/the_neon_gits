@@ -1,382 +1,455 @@
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Blender/building.uasset" 0
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 1
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Animations/ThirdPersonJump_End.uasset" 2
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Animations/ThirdPerson_Jump.uasset" 3
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 4
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Animations/ThirdPersonJump_Start.uasset" 5
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Animations/ThirdPersonIdle.uasset" 6
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Animations/ThirdPersonRun.uasset" 7
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Animations/ThirdPersonWalk.uasset" 8
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 9
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 10
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 11
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Functions/NewMacroLibrary.uasset" 12
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 13
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Textures/T_MacroVariation.uasset" 14
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_Metal_Chrome.uasset" 15
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_Neon_Light.uasset" 16
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/Red.uasset" 17
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 18
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 19
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 20
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 21
-"../../../Engine/Content/BasicShapes/Cone.uasset" 22
-"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 23
-"../../../Engine/Content/BasicShapes/Cube.uasset" 24
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Building/Building_basic.uasset" 25
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/GameModes/Game_Instance.uasset" 26
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/UI/Widgets/Minimap_data.uasset" 27
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Minimap/MiniMap_Render_Target.uasset" 28
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Minimap/MiniMap_Render_Target_Mat.uasset" 29
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Images/Photoshop/Ennemies_minimap_icon.uasset" 30
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/UI/Widgets/EnnemiesIcon.uasset" 31
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Images/Illustrator/Logo_player.uasset" 32
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/UI/Widgets/PlayerIcon.uasset" 33
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Images/Photoshop/InterestPoint_minimap_icon.uasset" 34
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/UI/Widgets/PointOfInterest.uasset" 35
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/UI/Widgets/MiniMap_widget.uasset" 36
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/UI/Widgets/Energy_Bar_Widget.uasset" 37
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/UI/Widgets/Ennemies_left_bar.uasset" 38
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/UI/Widgets/Health_Bar_Widget.uasset" 39
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/UI/Widgets/Lock_weapon_ammo.uasset" 40
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/UI/In_game_UI.uasset" 41
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/PointOfInterest_component.uasset" 42
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 43
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Bonus/Upgrades/Ammo_reload_up.uasset" 44
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Bonus/Upgrades/Ammo_up.uasset" 45
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Bonus/Upgrades/Damages_up.uasset" 46
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Bonus/Upgrades/Energy_up.uasset" 47
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Bonus/Upgrades/firerate_up.uasset" 48
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Bonus/Upgrades/Health_up.uasset" 49
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_Neon_Light_orange.uasset" 50
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Bonus/Lock_ammo_bonus.uasset" 51
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Geometry/Meshes/CubeMaterial.uasset" 52
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_Neon_Light_Magenta.uasset" 53
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 54
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Textures/T_Burst_M.uasset" 55
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_Burst.uasset" 56
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Textures/T_Explosion_SubUV.uasset" 57
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_explosion_subUV.uasset" 58
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/m_flare_01.uasset" 59
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 60
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_radial_ramp.uasset" 61
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Textures/T_Smoke_SubUV.uasset" 62
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Textures/T_Smoke_Tiled_D.uasset" 63
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_smoke_subUV.uasset" 64
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/Particules/P_Explosion.uasset" 65
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Sounds/Effects/Explosion01.uasset" 66
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Ennemies/Basic_Ennemies.uasset" 67
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/Light_Red_1sec.uasset" 68
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/Metal_Chrome_dark.uasset" 69
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_neon_cube.uasset" 70
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_neon_cube_red.uasset" 71
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Ennemies/Bus_Ennemies.uasset" 72
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Ennemies/Boeing_Ennemies.uasset" 73
-"../../../Engine/Content/BasicShapes/Plane.uasset" 74
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Ennemies/Generator_Ennemies.uasset" 75
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_Neon_Light_Red.uasset" 76
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 77
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 78
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_sparks.uasset" 79
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/Particules/p_sparks_boss2.uasset" 80
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Ennemies/Sky_fire_ennemies.uasset" 81
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/Particules/p_sparks_boss1.uasset" 82
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Ennemies/Boss/Zone2_boss.uasset" 83
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Ennemies/Turret_ennemies.uasset" 84
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Ennemies/IncreasedLaserProjectile_ennmies.uasset" 85
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_neon_cube_red6.uasset" 86
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_neon_cube_red_bis.uasset" 87
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Geometry/Meshes/Cylinder.uasset" 88
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Ennemies/puddle_ennemies.uasset" 89
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Ennemies/Boss/Zone3_boss.uasset" 90
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Ennemies/Widget_boss_health.uasset" 91
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Ennemies/Boss/Zone1_boss.uasset" 92
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_laser.uasset" 93
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/Particules/p_laser_ennemy.uasset" 94
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Ennemies/LaserProjectile_ennmies.uasset" 95
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Ennemies/Mine_ennemies.uasset" 96
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Ennemies/Citern_Ennemies.uasset" 97
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/GameModes/InGame_game_mode.uasset" 98
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Textures/Fonts/RobotoDistanceField.uasset" 99
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_Metal_Chrome_dark-0-125.uasset" 100
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_Metal_Chrome_dark_0-5.uasset" 101
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_neon_cube_Red_building.uasset" 102
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_Neon_Light_Green.uasset" 103
-"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 104
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_Text_Bright.uasset" 105
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_Text_Bright_Cyan.uasset" 106
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_Text_Bright_Green.uasset" 107
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_Text_Bright_Magenta.uasset" 108
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_Text_Bright_Orange.uasset" 109
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Geometry/Meshes/1M_Cube.uasset" 110
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Building/building_cube.uasset" 111
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/LaserProjectile.uasset" 112
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/Particules/p_laser.uasset" 113
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/LaserProjectile_lock.uasset" 114
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mine.uasset" 115
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/GameModes/Saves.uasset" 116
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 117
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 118
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 119
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 120
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 121
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 122
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 123
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 124
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 125
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 126
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 127
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 128
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 129
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 130
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 131
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 132
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 133
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Character/Mesh/SK_Mannequin.uasset" 134
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/Particules/Fumee_degat.uasset" 135
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/Particules/Fumee_explosion.uasset" 136
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/Particules/p_booste.uasset" 137
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/Particules/p_sparks.uasset" 138
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Sounds/Effects/Explosion_Cue.uasset" 139
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Sounds/Musics/dynatron-stars-of-the-night.uasset" 140
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Sounds/Musics/dynatron-stars-of-the-night_Cue1.uasset" 141
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/UI/Pause_menu.uasset" 142
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/ThirdPersonCharacter.uasset" 143
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Bonus/Healing_bonus.uasset" 144
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/Light_Magenta.uasset" 145
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/Light_Orange.uasset" 146
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Animations/P_Explosion.uasset" 147
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Ennemies/Boeing_Ennemie.uasset" 148
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/GameModes/ThirdPersonGameMode.uasset" 149
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 150
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Geometry/Meshes/TemplateFloor.uasset" 151
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Images/Ennemies_minimap_icon.uasset" 152
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 153
-"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 154
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 155
-"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 156
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Images/Ennemies_minimap_icon_Sprite.uasset" 157
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Images/InterestPoint_minimap_icon.uasset" 158
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Images/InterestPoint_minimap_icon_Sprite.uasset" 159
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Images/Player_minimap_icon.uasset" 160
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Images/Player_minimap_icon_Sprite.uasset" 161
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Images/UE4Editor_2020-10-28_10-00-26.uasset" 162
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Images/Photoshop/Player_minimap_icon.uasset" 163
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/Fluid_Light.uasset" 164
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/Light_Cyan.uasset" 165
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/Light_Green.uasset" 166
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/Light_Red.uasset" 167
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/Metal_Chrome.uasset" 168
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_fog.uasset" 169
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_Metal_Chrome_dark0-25.uasset" 170
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_Neon_Light_Cyan.uasset" 171
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_Neon_Light_Cyann.uasset" 172
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_text_Magenta.uasset" 173
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_text_orange.uasset" 174
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/Plastic_White_Magenta.uasset" 175
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/p_sparks_boss2.uasset" 176
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/P_fog.uasset" 177
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/p_laser.uasset" 178
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/p_laser_ennemy.uasset" 179
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/P_sky_fire.uasset" 180
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/p_sparks.uasset" 181
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/p_sparks_boss1.uasset" 182
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Sounds/Musics/dynatron-stars-of-the-night_Cue.uasset" 183
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Sounds/Musics/MrKey_Black-Hole_LMK.uasset" 184
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Textures/T_Perlin_Noise_M.uasset" 185
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Textures/T_Water_M.uasset" 186
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Textures/T_Water_N.uasset" 187
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Textures/Fonts/NotoSansCJKtc-Light.uasset" 188
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/UI/Widgets/Health_bar.uasset" 189
-"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 190
-"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 191
-"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 192
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 193
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 194
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 195
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 196
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 197
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 198
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 199
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 200
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 201
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 202
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 203
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 204
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 205
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 206
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 207
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 208
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 209
-"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 210
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 211
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 212
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 213
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 214
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 215
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 216
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 217
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 218
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 219
-"../../../Engine/Content/EditorResources/S_Actor.uasset" 220
-"../../../Engine/Content/EditorResources/S_Note.uasset" 221
-"../../../Engine/Content/EditorResources/S_Solver.uasset" 222
-"../../../Engine/Content/EditorResources/S_Trigger.uasset" 223
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 224
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 225
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 226
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 227
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 228
-"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 229
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 230
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 231
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 232
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 233
-"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 234
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 235
-"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 236
-"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 237
-"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 238
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 239
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 240
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 241
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 242
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 243
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 244
-"../../../Engine/Content/EngineFonts/Roboto.uasset" 245
-"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 246
-"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 247
-"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 248
-"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 249
-"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 250
-"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 251
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 252
-"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 253
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 254
-"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 255
-"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 256
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 257
-"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 258
-"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 259
-"../../../Engine/Content/EngineMaterials/DefaultVirtualTextureMaterial.uasset" 260
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 261
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 262
-"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 263
-"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 264
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 265
-"../../../Engine/Content/EngineMaterials/HairDefaultMaterial.uasset" 266
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 267
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 268
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 269
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 270
-"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 271
-"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 272
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 273
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 274
-"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 275
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 276
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 277
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 278
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 279
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 280
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 281
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 282
-"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 283
-"../../../Engine/Content/EngineMeshes/Sphere.uasset" 284
-"../../../Engine/Content/EngineResources/Black.uasset" 285
-"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 286
-"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 287
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 288
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 289
-"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 290
-"../../../Engine/Content/EngineSounds/Master.uasset" 291
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 292
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 293
-"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 294
-"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 295
-"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 296
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 297
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 298
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 299
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 300
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 301
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 302
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 303
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 304
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 305
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 306
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 307
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 308
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 309
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 310
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 311
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 312
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 313
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 314
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 315
-"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 316
-"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 317
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 318
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 319
-"../../../Engine/Content/Tutorial/SubEditors/GettingSubstance.uasset" 320
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 321
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 322
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 323
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 324
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 325
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 326
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 327
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 328
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 329
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 330
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 331
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 332
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 333
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 334
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 335
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 336
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 337
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 338
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 339
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 340
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 341
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Building/building_sign.uasset" 342
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Building/Portails/Basic_portail.uasset" 343
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 344
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 345
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 346
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 347
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 348
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 349
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 350
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 351
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Maps/BP_Sky_Sphere.uasset" 352
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Maps/demonstration_map_BuiltData.uasset" 353
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_neon_cube_cyan.uasset" 354
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_neon_cube_cyan1.uasset" 355
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_neon_cube_green.uasset" 356
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_neon_cube_magenta.uasset" 357
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_neon_cube_red2.uasset" 358
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_neon_cube_red3.uasset" 359
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_neon_cube_red4.uasset" 360
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_neon_cube_red5.uasset" 361
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_neon_cube_red7.uasset" 362
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 363
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Maps/demonstration_map.umap" 364
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Maps/Level_map_BuiltData.uasset" 365
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Maps/Level_map.umap" 366
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Maps/Menu_map_BuiltData.uasset" 367
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_outline_UI_glow.uasset" 368
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_text_UI_glow.uasset" 369
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Images/wallpaper.uasset" 370
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Sounds/Effects/laser.uasset" 371
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Sounds/Effects/Laser_cue.uasset" 372
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Sounds/Musics/Mourioche_loop-house-5.uasset" 373
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Sounds/Musics/Mourioche_loop-house-5_cue1.uasset" 374
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/UI/Commandes.uasset" 375
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/UI/Credits_menu.uasset" 376
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/UI/Option_menu.uasset" 377
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/UI/Menu_UI.uasset" 378
-"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Maps/Menu_map.umap" 379
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 380
-"../../../Engine/Content/Maps/Entry.umap" 381
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Blender/Base_wall_buildings_base.uasset" 0
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Blender/building.uasset" 1
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 2
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Animations/ThirdPersonJump_End.uasset" 3
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Animations/ThirdPerson_Jump.uasset" 4
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 5
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Animations/ThirdPersonJump_Start.uasset" 6
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Animations/ThirdPersonIdle.uasset" 7
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Animations/ThirdPersonRun.uasset" 8
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Animations/ThirdPersonWalk.uasset" 9
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 10
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 11
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 12
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Functions/NewMacroLibrary.uasset" 13
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_neon_cube_Master.uasset" 14
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/MI_neon_cube_cyan1.uasset" 15
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/MI_neon_cube_green.uasset" 16
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/MI_neon_cube_red7.uasset" 17
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 18
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_Text_Bright_Master.uasset" 19
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/MI_Text_Bright_Cyan.uasset" 20
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 21
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 22
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 23
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 24
+"../../../Engine/Content/BasicShapes/Cube.uasset" 25
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Building/StoryTeller.uasset" 26
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 27
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Textures/T_MacroVariation.uasset" 28
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_Metal_Chrome_Master.uasset" 29
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_Neon_Light_Master.uasset" 30
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/Red.uasset" 31
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 32
+"../../../Engine/Content/BasicShapes/Cone.uasset" 33
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Building/Building_basic.uasset" 34
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/GameModes/Game_Instance.uasset" 35
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/UI/Widgets/Minimap_data.uasset" 36
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Minimap/MiniMap_Render_Target.uasset" 37
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Minimap/MiniMap_Render_Target_Mat.uasset" 38
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Images/Photoshop/Ennemies_minimap_icon.uasset" 39
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/UI/Widgets/EnnemiesIcon.uasset" 40
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Images/Illustrator/Logo_player.uasset" 41
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/UI/Widgets/PlayerIcon.uasset" 42
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Images/Photoshop/InterestPoint_minimap_icon.uasset" 43
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/UI/Widgets/PointOfInterest.uasset" 44
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/UI/Widgets/MiniMap_widget.uasset" 45
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/UI/Widgets/Energy_Bar_Widget.uasset" 46
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/UI/Widgets/Ennemies_left_bar.uasset" 47
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/UI/Widgets/Health_Bar_Widget.uasset" 48
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/UI/Widgets/Lock_weapon_ammo.uasset" 49
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/UI/In_game_UI.uasset" 50
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/PointOfInterest_component.uasset" 51
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 52
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Bonus/Upgrades/Ammo_reload_up.uasset" 53
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Bonus/Upgrades/Ammo_up.uasset" 54
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Bonus/Upgrades/Damages_up.uasset" 55
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Bonus/Upgrades/Energy_up.uasset" 56
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Bonus/Upgrades/firerate_up.uasset" 57
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Bonus/Upgrades/Health_up.uasset" 58
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/MI_Neon_Light_Orange.uasset" 59
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Bonus/Lock_ammo_bonus.uasset" 60
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Geometry/Meshes/CubeMaterial.uasset" 61
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/MI_Neon_Light_Magenta.uasset" 62
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 63
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Textures/T_Burst_M.uasset" 64
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_Burst.uasset" 65
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Textures/T_Explosion_SubUV.uasset" 66
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_explosion_subUV.uasset" 67
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/m_flare_01.uasset" 68
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 69
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_radial_ramp.uasset" 70
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Textures/T_Smoke_SubUV.uasset" 71
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Textures/T_Smoke_Tiled_D.uasset" 72
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_smoke_subUV.uasset" 73
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/Particules/P_Explosion.uasset" 74
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Sounds/Effects/Explosion01.uasset" 75
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Ennemies/Basic_Ennemies.uasset" 76
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/Light_Red_1sec.uasset" 77
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/MI_Metal_Chrome_dark-0-125.uasset" 78
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/MI_neon_cube_red.uasset" 79
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Ennemies/Bus_Ennemies.uasset" 80
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Ennemies/Boeing_Ennemies.uasset" 81
+"../../../Engine/Content/BasicShapes/Plane.uasset" 82
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Ennemies/Generator_Ennemies.uasset" 83
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 84
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uasset" 85
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 86
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/DeriveTangentBasis.uasset" 87
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Fresnel_Function.uasset" 88
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 89
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/LocalPosition.uasset" 90
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 91
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Textures/T_Imperfections_Dust_01_Mask.uasset" 92
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Textures/T_Imperfections_FingerPrints_Mask2.uasset" 93
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Textures/T_Imperfections_Stains_Mask.uasset" 94
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Textures/T_Imperfections_Wipe_Mask.uasset" 95
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/Functions/MF_Imperfections.uasset" 96
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/Functions/MF_NormalStrength_WS.uasset" 97
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/Functions/MF_Object_UVs.uasset" 98
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/Functions/MF_Triplanar_Mask.uasset" 99
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/Functions/MF_Triplanar_UVs.uasset" 100
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/Functions/MF_UV.uasset" 101
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Textures/T_Black_Linear.uasset" 102
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_Glass_Master.uasset" 103
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/MI_Glass_Tinted.uasset" 104
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/MI_Neon_Light_Red.uasset" 105
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 106
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 107
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_sparks.uasset" 108
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/Particules/p_sparks_boss2.uasset" 109
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Ennemies/Sky_fire_ennemies.uasset" 110
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/Particules/p_sparks_boss1.uasset" 111
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Ennemies/Boss/Zone2_boss.uasset" 112
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Ennemies/Turret_ennemies.uasset" 113
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Ennemies/IncreasedLaserProjectile_ennmies.uasset" 114
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/MI_neon_cube_red6.uasset" 115
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/MI_neon_cube_red_bis.uasset" 116
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Geometry/Meshes/Cylinder.uasset" 117
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Ennemies/puddle_ennemies.uasset" 118
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Ennemies/Boss/Zone3_boss.uasset" 119
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Ennemies/Widget_boss_health.uasset" 120
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Ennemies/Boss/Zone1_boss.uasset" 121
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_laser.uasset" 122
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/Particules/p_laser_ennemy.uasset" 123
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Ennemies/LaserProjectile_ennmies.uasset" 124
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Ennemies/Mine_ennemies.uasset" 125
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 126
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/MI_Neon_Light_Cyann.uasset" 127
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Ennemies/Citern_Ennemies.uasset" 128
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_Neon_Light_orange.uasset" 129
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Ennemies/Laser_pangolin.uasset" 130
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_transparent.uasset" 131
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_Metal_Chrome_dark-0-125.uasset" 132
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/MI_Metal_Chrome_dark0-25.uasset" 133
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_Metal_Chrome_dark0-25.uasset" 134
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_Neon_Light_Cyann.uasset" 135
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Geometry/Meshes/1M_Cube.uasset" 136
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Ennemies/pangolin.uasset" 137
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/GameModes/InGame_game_mode.uasset" 138
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Textures/Fonts/RobotoDistanceField.uasset" 139
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/MI_Metal_Chrome_dark_0-5.uasset" 140
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/MI_neon_cube_Red_building.uasset" 141
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/MI_Neon_Light_Green.uasset" 142
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/MI_Text_Bright_Green.uasset" 143
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/MI_Text_Bright_Magenta.uasset" 144
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/MI_Text_Bright_Orange.uasset" 145
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Building/building_cube.uasset" 146
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Ennemies/Basic_Mannequin.uasset" 147
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/LaserProjectile.uasset" 148
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/Particules/p_laser.uasset" 149
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/LaserProjectile_lock.uasset" 150
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mine.uasset" 151
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/GameModes/Saves.uasset" 152
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 153
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 154
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 155
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 156
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 157
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 158
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 159
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 160
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 161
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 162
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 163
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 164
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 165
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 166
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 167
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 168
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 169
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/Mannequin/Character/Mesh/SK_Mannequin.uasset" 170
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/Particules/Fumee_degat.uasset" 171
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/Particules/Fumee_explosion.uasset" 172
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/Particules/p_booste.uasset" 173
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/Particules/p_sparks.uasset" 174
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Sounds/Effects/Explosion_Cue.uasset" 175
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Sounds/Musics/dynatron-stars-of-the-night.uasset" 176
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Sounds/Musics/dynatron-stars-of-the-night_Cue1.uasset" 177
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/UI/Pause_menu.uasset" 178
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/UI/Story/StoryTeller_story.uasset" 179
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Character/ThirdPersonCharacter.uasset" 180
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Bonus/Healing_bonus.uasset" 181
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/Light_Magenta.uasset" 182
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/Light_Orange.uasset" 183
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Animations/P_Explosion.uasset" 184
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Ennemies/Boeing_Ennemie.uasset" 185
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/GameModes/ThirdPersonGameMode.uasset" 186
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 187
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Geometry/Meshes/TemplateFloor.uasset" 188
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Images/Ennemies_minimap_icon.uasset" 189
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 190
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 191
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 192
+"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 193
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Images/Ennemies_minimap_icon_Sprite.uasset" 194
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Images/InterestPoint_minimap_icon.uasset" 195
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Images/InterestPoint_minimap_icon_Sprite.uasset" 196
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Images/Player_minimap_icon.uasset" 197
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Images/Player_minimap_icon_Sprite.uasset" 198
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Images/UE4Editor_2020-10-28_10-00-26.uasset" 199
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Images/Photoshop/Player_minimap_icon.uasset" 200
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/Fluid_Light.uasset" 201
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_Neon_Light.uasset" 202
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/Light_Cyan.uasset" 203
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/Light_Green.uasset" 204
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/Light_Red.uasset" 205
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_Metal_Chrome.uasset" 206
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/Metal_Chrome.uasset" 207
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/MI_Glass_Clear.uasset" 208
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/MI_Glass_Windshield_Tinted.uasset" 209
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_fog.uasset" 210
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_Metal_Chrome_dark_0-5.uasset" 211
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_neon_cube.uasset" 212
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/MI_neon_cube_home_map.uasset" 213
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_neon_cube_home_map.uasset" 214
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_neon_cube_red_bis.uasset" 215
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_neon_cube_Red_building.uasset" 216
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_Neon_Light_Cyan.uasset" 217
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_Neon_Light_Magenta.uasset" 218
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_Neon_Light_Red.uasset" 219
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_Text_Bright.uasset" 220
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_text_Magenta.uasset" 221
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_text_orange.uasset" 222
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/Plastic_White_Magenta.uasset" 223
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/p_sparks_boss2.uasset" 224
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/P_fog.uasset" 225
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/p_laser.uasset" 226
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/p_laser_ennemy.uasset" 227
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/P_sky_fire.uasset" 228
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/p_sparks.uasset" 229
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/p_sparks_boss1.uasset" 230
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Sounds/Musics/dynatron-stars-of-the-night_Cue.uasset" 231
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Sounds/Musics/MrKey_Black-Hole_LMK.uasset" 232
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Textures/T_Perlin_Noise_M.uasset" 233
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Textures/T_Water_M.uasset" 234
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Textures/T_Water_N.uasset" 235
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Textures/Fonts/NotoSansCJKtc-Light.uasset" 236
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/UI/Widgets/Health_bar.uasset" 237
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 238
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 239
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 240
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 241
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 242
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 243
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 244
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 245
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 246
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 247
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 248
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 249
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 250
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 251
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 252
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 253
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 254
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 255
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 256
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 257
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 258
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 259
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 260
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 261
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 262
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 263
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 264
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 265
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 266
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 267
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 268
+"../../../Engine/Content/EditorResources/S_Note.uasset" 269
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 270
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 271
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 272
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 273
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 274
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 275
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 276
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 277
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 278
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 279
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 280
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 281
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 282
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 283
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 284
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 285
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 286
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 287
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 288
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 289
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 290
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 291
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 292
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 293
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 294
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 295
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 296
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 297
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 298
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 299
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 300
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 301
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 302
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 303
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 304
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 305
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 306
+"../../../Engine/Content/EngineMaterials/DefaultVirtualTextureMaterial.uasset" 307
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 308
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 309
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 310
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 311
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 312
+"../../../Engine/Content/EngineMaterials/HairDefaultMaterial.uasset" 313
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 314
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 315
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 316
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 317
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 318
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 319
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 320
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 321
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 322
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 323
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 324
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 325
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 326
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 327
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 328
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 329
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 330
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 331
+"../../../Engine/Content/EngineResources/Black.uasset" 332
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 333
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 334
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 335
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 336
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 337
+"../../../Engine/Content/EngineSounds/Master.uasset" 338
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 339
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 340
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 341
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 342
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 343
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 344
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 345
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 346
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 347
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 348
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 349
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 350
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 351
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 352
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 353
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 354
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 355
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 356
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 357
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 358
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 359
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 360
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 361
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 362
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 363
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 364
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 365
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 366
+"../../../Engine/Content/Tutorial/SubEditors/GettingSubstance.uasset" 367
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 368
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 369
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 370
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 371
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 372
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 373
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 374
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 375
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 376
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 377
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 378
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 379
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 380
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 381
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 382
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 383
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 384
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 385
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 386
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 387
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 388
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_Text_Bright_Cyan.uasset" 389
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_Text_Bright_Green.uasset" 390
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_Text_Bright_Magenta.uasset" 391
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_Text_Bright_Orange.uasset" 392
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Building/building_sign.uasset" 393
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Building/Portails/Basic_portail.uasset" 394
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 395
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 396
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 397
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 398
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 399
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 400
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 401
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 402
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Maps/BP_Sky_Sphere.uasset" 403
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Maps/demonstration_map_BuiltData.uasset" 404
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/Metal_Chrome_dark.uasset" 405
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/MI_neon_cube_cyan.uasset" 406
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_neon_cube_cyan.uasset" 407
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_neon_cube_cyan1.uasset" 408
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_neon_cube_green.uasset" 409
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/MI_neon_cube_magenta.uasset" 410
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_neon_cube_magenta.uasset" 411
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_neon_cube_red.uasset" 412
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/MI_neon_cube_red2.uasset" 413
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_neon_cube_red2.uasset" 414
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/MI_neon_cube_red3.uasset" 415
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_neon_cube_red3.uasset" 416
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/MI_neon_cube_red4.uasset" 417
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_neon_cube_red4.uasset" 418
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/MI_neon_cube_red5.uasset" 419
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_neon_cube_red5.uasset" 420
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_neon_cube_red6.uasset" 421
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_neon_cube_red7.uasset" 422
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_Neon_Light_Green.uasset" 423
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 424
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Maps/demonstration_map.umap" 425
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/MI_neon_cube_red_home_command.uasset" 426
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Building/home_map_commands.uasset" 427
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/MI_neon_cube_cyan_home_best_score.uasset" 428
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Building/home_map_max_score.uasset" 429
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Maps/Home_map_BuiltData.uasset" 430
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Images/Blender_city.uasset" 431
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Images/Blender_city_Mat.uasset" 432
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/MI_Glass_Windshield.uasset" 433
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/MI_Glass_Windshield_SunCover.uasset" 434
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/MI_neon_cube_cyan_glass_border_home.uasset" 435
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Maps/Home_map.umap" 436
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Ennemies/Boss/Zone4_boss.uasset" 437
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Maps/Level_map_BuiltData.uasset" 438
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Maps/Level_map.umap" 439
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Maps/Menu_map_BuiltData.uasset" 440
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_outline_UI_glow.uasset" 441
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Materials/M_text_UI_glow.uasset" 442
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Images/wallpaper.uasset" 443
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Sounds/Effects/laser.uasset" 444
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Sounds/Effects/Laser_cue.uasset" 445
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Sounds/Musics/Mourioche_loop-house-5.uasset" 446
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Sounds/Musics/Mourioche_loop-house-5_cue1.uasset" 447
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/UI/Commandes.uasset" 448
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/UI/Credits_menu.uasset" 449
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/UI/Option_menu.uasset" 450
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/UI/Menu_UI.uasset" 451
+"C:/Users/thibaultsantonja/Documents/Unreal Projects/NeonGITS/Content/Maps/Menu_map.umap" 452
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 453
+"../../../Engine/Content/Maps/Entry.umap" 454
