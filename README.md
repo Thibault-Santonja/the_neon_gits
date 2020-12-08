@@ -15,8 +15,7 @@ An IC06 project developed with Unreal Engine 4
 ## 1. Ressources et présentation du projet
 [lien git projet](https://gitlab.utc.fr/tsantonj/the_neon_gits)
 
-[alpha v0.2.62](https://drive.google.com/file/d/1k06yKDm4gRK0KNqYx69nvKnkiBf9G93u/view?usp=sharing
-)
+[version BETA](https://drive.google.com/file/d/1p9iDx2h6CapTku1eQL9YIeXAC4bc-97_/view?usp=sharing)
 
 [lien google sheet planning](https://docs.google.com/spreadsheets/d/1Xr9n_vt9y2RlpWiuXXkXmDvKhSmyRA22sAipUdPXf8A/edit?usp=sharing)
 
