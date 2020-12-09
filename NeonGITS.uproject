@@ -2,5 +2,20 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.24",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ApexDestruction",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayHelper",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/0d8f0ca5fdee4d7fae6f913a3d1e740b"
+		},
+		{
+			"Name": "PerformanceMonitor",
+			"Enabled": true
+		}
+	]
 }
