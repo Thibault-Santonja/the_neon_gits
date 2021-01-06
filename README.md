@@ -3,7 +3,7 @@ The Neon GITS
 
 An IC06 project developed with Unreal Engine 4 by Thibault Santonja
 
-Pour une meilleure visibilité de ce document, n'hésitez pas à le consulter sur HackMD : [lien](https://hackmd.io/aFCSI68dRde_e8HaAA9MZQ)
+**Pour une meilleure visibilité de ce document, n'hésitez pas à le consulter sur HackMD : [lien](https://hackmd.io/aFCSI68dRde_e8HaAA9MZQ)**
 
 ---
 ---
