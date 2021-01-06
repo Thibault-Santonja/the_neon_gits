@@ -320,6 +320,12 @@ liste des variables stockés au 31/10/2020 :
 
 Ce projet a été l'occasion pour moi de découvrir et de manipuler Blender. Ce logiciel de modélisation 3D a été utilisé pour créer la ville de la HomeMap et quelques éléments comme les PNJ, le portail et le trophé de cette même HomeMap.
 
+### 5.1. city
+pour la ville, demanière assez simple j'ai créer une surface avec des particules properties, où j'y ai associé différentes collection de buildings (HLM / Skycrapper / ...) : ![](https://puu.sh/H4iL0/5c3f6f00ed.png) ![](https://puu.sh/H4iMb/a7a869f6e9.png)
+
+### 5.2. PNJ
+Pour la majorité des modèles 3D, il n'y a rien de très compliqué, c'est de la modélisation basique de Blender. Voici un des exemple :
+ ![](https://puu.sh/H4iNN/474bcf1d76.png)
 
 
 ---
