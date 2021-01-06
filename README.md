@@ -1,11 +1,7 @@
 The Neon GITS
 ===
 
-An IC06 project developed with Unreal Engine 4
-
-
-
-
+An IC06 project developed with Unreal Engine 4 by Thibault Santonja
 
 ---
 ---
@@ -15,20 +11,22 @@ An IC06 project developed with Unreal Engine 4
 ## 1. Ressources et présentation du projet
 [lien git projet](https://gitlab.utc.fr/tsantonj/the_neon_gits)
 
-[version BETA](https://drive.google.com/file/d/1p9iDx2h6CapTku1eQL9YIeXAC4bc-97_/view?usp=sharing)
+[version Actuelle](https://drive.google.com/file/d/1p9iDx2h6CapTku1eQL9YIeXAC4bc-97_/view?usp=sharing)
 
 [lien google sheet planning](https://docs.google.com/spreadsheets/d/1Xr9n_vt9y2RlpWiuXXkXmDvKhSmyRA22sAipUdPXf8A/edit?usp=sharing)
 
 [prèsentation vidéo contenu alpha v0.2.5](https://drive.google.com/file/d/1lI6rOlypVaHmL1ioif5b4uoKDrsdqKoh/view?usp=sharing)
 
+[Vidéo de présentation finale du projet](https://youtu.be/NWYJ-hLyF7w) : {%youtube NWYJ-hLyF7w %}
+
 ### 1.1. Présentation générale
-**Intro**: Shooter / Die&Retry dans un univers Cyberpunk avec des salles à "nettoyer" et différentes zones composées de plusieurs salles et se finissant par un boss.
-**Références**: Zone of the enders 2 (grosses vagues d'ennemies (des centaines)), Binding of Isaac (scénario simple, zones à nettoyer, Die&Retry)
+**Intro**: Shooter / Die&Retry / RogueLite dans un univers Cyberpunk avec des salles à "nettoyer" et différentes zones composées de plusieurs salles et se finissant par un boss.
+**Références**: Zone of the enders 2 (grosses vagues d'ennemies (des centaines)), Binding of Isaac (scénario simple, zones à nettoyer, Die&Retry), Hades (RogueLite), Doom (retour visuels jouissifs)
 **Contexte**: environnement Retro futuriste / cyberpunk avec des néons, une prédominence de couleurs cyan / magenta
 **Éléments Principaux**: Vaisseau du joueur, ennemis sous forme de horde
 **Mode de jeu**: un joueur (coop ?)
 **Interface**: 3D, clavier sourie + portabilité console ?
-**Maquette Graphique**: Map simple, plate, avec décors (buildings...). Ambiance de nuit avec des néonspour l'éclairage (référence à l'imaginaire cyberpunk, exemple avec le jeu Cyberpunk 2077: https://cdn.cdkeys.com/700x700/media/catalog/product/c/y/cyberpunk.jpg, ou avec Ghost in the Shell (artwork de Alex Feliksovich) : https://www.artstation.com/artwork/nqrYo)
+**Maquette Graphique**: Map simple, plate, avec décors (buildings...) simples. Ambiance de nuit avec des néons pour l'éclairage (référence à l'imaginaire cyberpunk, exemple avec le jeu Cyberpunk 2077: [![](https://cdn.cdkeys.com/700x700/media/catalog/product/c/y/cyberpunk.jpg)]()https://cdn.cdkeys.com/700x700/media/catalog/product/c/y/cyberpunk.jpg), ou avec Ghost in the Shell (artwork de Alex Feliksovich) : [![](https://www.artstation.com/artwork/nqrYo)](https://www.artstation.com/artwork/nqrYo)
 
 **Étude de l'existant** : [![](https://i.imgur.com/z2nVCuR.png)](https://i.imgur.com/z2nVCuR.png)
 **Étude technique** : [![](https://i.imgur.com/V0XAasP.png)](https://i.imgur.com/V0XAasP.png)
@@ -133,11 +131,15 @@ Regularly, hackers try to retrieve and crack this code in order to use its infin
 
 Since a few days, a rather powerful pirate manages to quickly break the firewalls of the temple to the safe protecting the code. As the Guardian of the Temple, it is your duty to quickly regain control and chase this pirate away...
 
-### 3.2.Story through the game
+### 3.2. Story through the game
 - possibility to choose another Guardian (different weapons / abilities)
 - retry again and again to get new parts of the story: each time we kill the final boss (the pirate), he tells us something new to understand who is he, why does he want the code, what does he want to do with it...
 - possibility to add some philosophical reflexions on AI, natrure, what does it mean to be "alive", cyborg, robots... 
 > reference to GitS, Blade Runner... (many SF)
+
+### 3.3. Histoire complète
+
+Histoire découpée en 10 parties correspondant aux 10 fins possibles. Vous pouvez retrouver [l'histoire complète ici](https://gitlab.utc.fr/tsantonj/the_neon_gits/-/blob/master/story.md)
 
 ---
 ## 4. Explication code
@@ -292,7 +294,7 @@ liste des variables stockés au 31/10/2020 :
         - **SkyLight** couplé au SkySphere, permet de mettre de la luminosité sur le level
         - **LightMassImportanceVolume** Zone où la lumière sera calculée
         - **Basic Portail** Seul élément fixe de la map en 0 0 0
-- **Home_map** map où l'on aura accès à tout le lore, les possibles upgrades / récompenses, l'entrainement et cetera. C'est la carte principale où l'on pourra ensuite lancer une run
+- **Home_map** Cette carte est la carte principale du jeu. Nous n'avons pas osé mais il serait intéressant de faire de cette map le point central du jeu. Le wiki du jeu y est déjà présent, différentes options aussi et cetera. 
 
 
 ### 4.10. Matériaux
@@ -301,7 +303,8 @@ liste des variables stockés au 31/10/2020 :
 - **Plastique** un peu comme le matériaux chromé, j'ai fait joujou ![](https://i.imgur.com/4x9zsl8.png)
 - **les textes** on a juste set le calque de base avec le texte et magie c'est beau ![](https://i.imgur.com/V5qFLJi.png)
 - **particule laser** j'ai mis en required le matériaux laser ![](https://i.imgur.com/I58E8NH.png), un spawn rate de 320 ![](https://i.imgur.com/uZsWoOh.png), une lifetime de 1seconde ![](https://i.imgur.com/Dsf8VbX.png), une initial size fixe de 10 ![](https://i.imgur.com/gUwPYzy.png), une initial velocité de -100 sur X ![](https://i.imgur.com/rT7blon.png) et une initial location fixe à 0 0 0
-
+- **Cube néon**, différentes intances d'un matériaux de type cube dont on peut changer les couleurs du cube + grâces à différentes fonctions, les arrêtes sont lumineuses (intensité peut être changée, couleur...) : ![](https://puu.sh/H4ifg/37fcb0854d.png) différentes créées (permet d'alléger et de ne pas refaire le matériaux à chaque fois) : [![](https://puu.sh/H4ifN/b4096bf7e3.png)](https://puu.sh/H4ifN/b4096bf7e3.png)
+    > exemple d'une instance du matériaux : [![](https://puu.sh/H4iiH/c216b12173.png)](https://puu.sh/H4iiH/c216b12173.png)
 
 ### 4.11. UI
 - **ingame ui** utilisation partout de grid pour éviter les taille fixe en pixels qui font n'imp ![](https://i.imgur.com/ftVKQim.png)
@@ -312,5 +315,11 @@ liste des variables stockés au 31/10/2020 :
     - **minimap_render** set par la camera zenitale sur le character, récupère l'image vue par la camera à chaque instant, on peut dire que c'est l'écran de la camera
     - **minimap_material** globalement, on set la texture minimap_render, on crop le contour pour faire un rond et on ajoute une légère bordure pour qu'elle soit mieux visible (encore une fois, full math): ![](https://i.imgur.com/dkTLTBj.png)
     - **POI_component** (situé à la racine du projet... pas la meilleure des idées...) possède une variable pour set l'icon qui sera retransmis au widget de la minimap : ![](https://i.imgur.com/PXT0YVE.png)
+
+## 5. Blender
+
+Ce projet a été l'occasion pour moi de découvrir et de manipuler Blender. Ce logiciel de modélisation 3D a été utilisé pour créer la ville de la HomeMap et quelques éléments comme les PNJ, le portail et le trophé de cette même HomeMap.
+
+
 
 ---
