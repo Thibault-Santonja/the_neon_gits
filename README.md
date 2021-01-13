@@ -34,6 +34,9 @@ An IC06 project developed with Unreal Engine 4 by Thibault Santonja
 **Étude technique** : [![](https://i.imgur.com/V0XAasP.png)](https://i.imgur.com/V0XAasP.png)
 
 ### 1.2. Inspiration graphiques
+
+Inspiration néon : [The “Neon Nights” KB3D GameDay Contest Winners!](https://kitbash3d.com/blogs/news/the-neon-nights-kb3d-gameday-contest-winners)
+
 #### 1.2.1. **Artstation Ghost in the Shell**
 [Artstation Ghost in the Shell](https://www.artstation.com/search?q=ghost%20in%20the%20shell&sort_by=relevance)
 
